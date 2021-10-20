@@ -5,7 +5,7 @@ Here I have built a real time face emotion recognition training model and applic
 
 The model gave an accuracy of 63% for training set and 60% accuracy for test set. A web application was built and deployed on Streamlit cloud using streamlit API.
 
-![Accuracy Plot](images/graph image .jpg)
+![Accuracy Plot](download.jpg)
 
 # How to run locally:
 
