@@ -5,7 +5,7 @@ Here I have built a real time face emotion recognition training model and applic
 
 The model gave an accuracy of 63% for training set and 60% accuracy for test set. A web application was built and deployed on Streamlit cloud using streamlit API.
 
-![Accuracy Plot](download.png)
+![Accuracy Plot](images/graph image .jpg)
 
 # How to run locally:
 
@@ -14,8 +14,7 @@ To run the script you must have python or [anaconda](https://www.anaconda.com/pr
 * First, clone the repository and enter the folder
 
 ```
-git clone https://github.com/PuroshotamSingh/Face-Emotion-Recognition.git
-cd Face-Emotion-Recognition
+git clone https://github.com/vickypandey07/Face-Emotion-Recognition.git
 ```
 
 * Download the FER-2013 dataset from [here](https://www.kaggle.com/msambare/fer2013)
@@ -28,7 +27,7 @@ cd Face-Emotion-Recognition
 
 # Check out the deployed app:
 
-Streamlit cloud - https://share.streamlit.io/puroshotamsingh/face-emotion-recognition/main/app.py
+Streamlit cloud - https://share.streamlit.io/vickypandey07/face-emotion-recognition/main/app.py
 
 Note - It might take few minutes to load when opening first time. After few minutes reload the page and it should be up running.
 I only have free account and less compute resources so the app might be slow.
